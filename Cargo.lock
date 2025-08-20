@@ -520,6 +520,7 @@ dependencies = [
  "actix-web",
  "num_cpus",
  "reqwest",
+ "ring 0.17.14",
  "scraper",
  "serde",
 ]
